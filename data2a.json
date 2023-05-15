@@ -1,0 +1,81 @@
+[
+    {
+     "id": 1,
+     "category": "Chapter 2",
+     "content": {
+         "id": 0,
+         "image": "two",
+         "description": "Chapter 2",
+         "vocabs": [
+             {
+                 "id": 0,
+                 "englishWord": "a book",
+                 "arabicWord": "kitabun",
+             },
+             {
+                 "id": 1,
+                 "englishWord": "a house",
+                 "arabicWord": "baytun",
+             },
+             {
+                 "id": 3,
+                 "englishWord": "a door",
+                 "arabicWord": "baabun",
+             }
+         ],
+         "lessons": [
+             {
+                 "id": 0,
+                 "title": "vocabulary",
+                 "video": "Learn%20Swift%20for%20Beginners%20Lesson%201%20-%20Variables%20(Swift%205%20compatible)-2OZ07fklur8.mp4",
+                 "time": "5 min",
+                 "explanation": "this is explanation of vocab 1.this is explanation of vocab 1.this is explanation of vocab 1.this is explanation of vocab 1.this is explanation of vocab 1.this is explanation of vocab 1.this is explanation of vocab 1.this is explanation of vocab 1.this is explanation of vocab 1.this is explanation of vocab 1.this is explanation of vocab 1.this is explanation of vocab 1.this is explanation of vocab 1.this is explanation of vocab 1.this is explanation of vocab 1.this is this this is explanation of vocab 1.this is explanation of vocab 1.this is explanation of vocab 1.this is explanation of vocab 1.this is explanation of vocab 1.this is explanation of vocab 1.this is explanation of vocab 1.this is explanation of vocab 1.this is explanation of vocab 1.this is explanation of vocab 1.this is explanation of vocab 1.this is explanation of vocab 1.this is explanation of vocab 1.this is explanation of vocab 1.this is explanation of vocab 1.this is this"
+             },
+            {
+                "id": 1,
+                "title": "rule 1",
+                "video": "Learn%20Swift%20for%20Beginners%20Lesson%201%20-%20Variables%20(Swift%205%20compatible)-2OZ07fklur8.mp4",
+                "time": "5 min",
+                "explanation": "this is explanation of vocab 1.this is explanation of vocab 1.this is explanation of vocab 1.this is explanation of vocab 1.this is explanation of vocab 1.this is explanation of vocab 1.this is explanation of vocab 1.this is explanation of vocab 1.this is explanation of vocab 1.this is explanation of vocab 1.this is explanation of vocab 1.this is explanation of vocab 1.this is explanation of vocab 1.this is explanation of vocab 1.this is explanation of vocab 1.this is this"
+            },
+            {
+                "id": 2,
+                "title": "rule 2",
+                "video": "Learn%20Swift%20for%20Beginners%20Lesson%201%20-%20Variables%20(Swift%205%20compatible)-2OZ07fklur8.mp4",
+                "time": "5 min",
+                "explanation": "this is explanation of vocab 1.this is explanation of vocab 1.this is explanation of vocab 1.this is explanation of vocab 1.this is explanation of vocab 1.this is explanation of vocab 1.this is explanation of vocab 1.this is explanation of vocab 1.this is explanation of vocab 1.this is explanation of vocab 1.this is explanation of vocab 1.this is explanation of vocab 1.this is explanation of vocab 1.this is explanation of vocab 1.this is explanation of vocab 1.this is this"
+            }
+         ]
+     },
+     "test": {
+         "id": 0,
+         "image": "test",
+         "name": "Chapter 2 Test",
+         "questions": [
+             {
+                 "id": 0,
+                 "content": "this is question 1.this is question 1.this is question 1.this is question 1",
+                 "correctIndex": 2,
+                 "answers": [
+                     "option 1",
+                     "option 2",
+                     "option 3",
+                     "option 4"
+                 ]
+             },
+             {
+                 "id": 1,
+                 "content": "this is question 2.this is question 2.this is question 2.this is question 2",
+                 "correctIndex": 3,
+                 "answers": [
+                     "option 1",
+                     "option 2",
+                     "option 3",
+                     "option 4"
+                 ]
+             }
+         ]
+     }
+    }
+]
+
